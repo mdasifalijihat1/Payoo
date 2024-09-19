@@ -32,7 +32,7 @@ document.getElementById('btn-login').addEventListener('click', function(event){
         console.log('your right number');
         // home page login way
 
-        window.location.href = '../home.html'
+        window.location.href = './Payoo/home.html'
         
     }
     else{
