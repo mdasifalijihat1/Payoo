@@ -31,7 +31,7 @@ document.getElementById('btn-login').addEventListener('click', function(event){
     if(phoneNumber === '5' && pinNumber ==='1234'){
         console.log('your right number');
         // home page login way
-        window.location.href = '/home.html'
+        window.location.href = './home.html'
         
     }
     else{
